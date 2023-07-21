@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "theme": "kendall"
+    },
+    "basics": {
+        "name": "Bentley Hensel",
+        "label": "Strategic Tech Leader | Pioneering Innovative & Ethical Tech Solutions",
+        "image": "https://avatars.githubusercontent.com/u/29107683?v=4",
+        "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
+        "website": "https://bentleyhensel.com",
+        "email": "bentleyhensel@gmail.com",
+        "location": {
+            "city": "Arlington",
+            "countryCode": "US"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "bfhensel",
+                "url": "https://www.linkedin.com/in/bfhensel/"
+            },
+            {
+                "network": "Twitter",
+                "username": "BFHensel",
+                "url": "https://twitter.com/BFHensel"
+            },
+            {
+                "url": "https://github.com/theboatymcboatface",
+                "username": "theboatymcboatface",
+                "network": "github"
+            }
+        ]
+    },
+    "references": [
+        {
+            "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
+            "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
+        }
+    ],
+    "skills": [
+        {
+            "keywords": [
+                "HTML / JSX",
+                "SCSS / CSS / BEM / Styled Components",
+                "Javascript / Typescript",
+                "React / Next",
+                "Redux / Apollo"
+            ],
+            "level": "Senior",
+            "name": "Frontend"
+        },
+        {
+            "keywords": [
+                "Node",
+                "Ruby",
+                "Python",
+                "Postgres",
+                "Redis",
+                "Serverless"
+            ],
+            "level": "Senior",
+            "name": "Backend"
+        },
+        {
+            "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
+            "level": "Senior",
+            "name": "Devops"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Defender of the Internet",
+            "awarder": "Fight For The Future"
+        }
+    ],
+    "work": [
+        {
+            "summary": "Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.",
+            "website": "https://tokenized.com/",
+            "name": "Tokenized",
+            "location": "Melbourne",
+            "position": "Senior Javascript Developer",
+            "startDate": "2020-05-05",
+            "highlights": ["React", "Redux", "SCSS", "Product"]
+        },
+        {
+            "summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
+            "website": "https://platform.blockbid.io",
+            "name": "Blockbid",
+            "location": "Melbourne",
+            "position": "Senior Javascript Developer",
+            "startDate": "2018-03-01",
+            "endDate": "2020-01-01",
+            "highlights": [
+                "React, Apollo, Styled Components",
+                "Node.js / Rails",
+                "Docker / Heroku / GCP",
+                "Used Figma for design and UX work",
+                "Optimizing markets with tens of millions of rows using SQL."
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Gardening"
+        },
+        {
+            "name": "Music / Jamming"
+        },
+        {
+            "name": "Reading / Writing"
+        },
+        {
+            "name": "Open Source"
+        }
+    ]
+}
