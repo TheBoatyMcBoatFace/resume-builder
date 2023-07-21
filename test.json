@@ -1,0 +1,483 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Bentley Hensel",
+        "label": "Strategic Tech Leader | Pioneering Innovative & Ethical Tech Solutions",
+        "image": "",
+        "email": "linkedin@bentleyhensel.com",
+        "phone": "3187293334",
+        "url": "",
+        "summary": "Experienced executive with a strong background in technology integration, data-driven decision-making, and product development. Thrives on solving industry challenges with a solution-oriented mindset, showing exceptional prowess in applying cutting-edge technologies from AI to machine learning, IoT, and advanced data management strategies. Applies innovative tools for growth and enhancing operational efficiencies across diverse contexts, from startups to large established organizations. Excels at sparking transformative change, swiftly addressing inefficiencies, and pivoting in response to new situations. An energetic leader who inspires innovation and fosters collaborative, out-of-the-box thinking across all levels of an organization. Eager to apply broad technical knowledge, strategic thinking, and a proactive approach in an executive role, steering a forward-thinking organization toward success.",
+        "location": {
+            "countryCode": "US",
+            "address": "United States"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "bfhensel",
+                "url": "https://www.linkedin.com/in/bfhensel/"
+            },
+            {
+                "network": "Twitter",
+                "username": "BFHensel",
+                "url": "https://twitter.com/BFHensel"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "CivicActions",
+            "position": "Senior Technical Product Manager",
+            "startDate": "2022-11-30",
+            "endDate": "",
+            "highlights": [],
+            "summary": "In my capacity as Senior Technical Product Manager at CivicActions, I've taken great joy in being part of the innovation that is transforming the digital accessibility space within the government sector. I've had the honor of leading the development of GovA11y, a novel open-source scanning tool that is drastically redefining accessibility testing for .gov and .mil domains, executing billions of tests at an unprecedented pace.\n\nI'm also proud to have helmed the CivicGPT initiative, a project that brings the power of Artificial Intelligence to an internally searchable knowledge base. This project isn't just about enhancing organizational efficiency, it's also about ensuring stringent data security. In line with this, I've designed a self-hosted Large Language Models system that enhances trust in AI-generated content.\n\nIn my role, I've also had the chance to coordinate the development of RapidATO, an open-source solution that transforms ATO documents into more user-friendly formats. This has been pivotal in making continuous, automated-testing ATO/SSPs and security compliance not just possible, but attainable.\n\nFurthermore, I've taken the reins of the VA.gov Platform CMS DevOps team, introducing git-ops-based Kubernetes application management and significantly reducing the backlog.\n\nThroughout my journey, fostering a culture of collaboration and innovation has been a key focus. I'm committed to using Agile principles to spark transformative change in the digital government landscape. The future is exciting, and I look forward to continuing to contribute to these transformations.",
+            "url": "https://www.linkedin.com/company/civicactions/",
+            "location": "United States"
+        },
+        {
+            "name": "Blitz Digital Group",
+            "position": "Director of Digital Operations",
+            "startDate": "2021-06-30",
+            "endDate": "2022-03-31",
+            "highlights": [],
+            "summary": "Responsible for building and managing operations department in growing digital marketing agency. Using Agile Principles, I oversaw an email marketing division, a data monetization company (Potomac Reach), an advertising & social division, and a technology (development) division. As part of my role, I acted as product manager for numerous internal, client, & customer-facing products.\n\nKEY ACHIEVEMENTS:\n\nManaged, designed, & deployed a data-sync product that enabled non-technical users to connect sensitive data to clients & numerous approved tools via a user-tested UI.\n\nCreated & managed internal security & authorization product utilizing custom tools, Cloudflare ZeroTrust, & LastPass.\n\nManaged operations department in a growing digital marketing agency; oversaw email marketing division, a data monetization company, advertising & social division, and technology (development) division using Agile Principles.\n\nOrganized & managed the organization of product data universes totaling over 75 million unique users, leading to dramatic improvements in client data performance and ROI.\n\nOversaw rebuilding of email deployment pipelines to follow Agile best practices by using tools such as Airtable, custom Slack apps, & internal products which resulted in a 12x increase in email inboxing\n\nBuilt and fostered an environment that encouraged inter-team cooperation and development\n\nConverted key stakeholder directives into multi-departmental executions",
+            "url": "https://www.linkedin.com/company/blitzdigitalgroup/",
+            "location": "Ashburn, Virginia, United States"
+        },
+        {
+            "name": "Gizmo Sanitizer",
+            "position": "President",
+            "startDate": "2019-11-30",
+            "endDate": "2021-03-31",
+            "highlights": [],
+            "summary": "Led a rapidly growing and agile logistics company to substantial growth with domestic & international clients. A new warehouse was built in January of 2020, right before COVID shut down the majority of our suppliers. I transitioned the organization and staff from a 3PL focus to pharmaceutical manufacturing due to a near-shutdown of our logistics clients. \n\t\t\nKEY ACHIEVEMENTS:\n\t\t\t\t\nBuilt and managed multi-location business serving clients across North America, Asia, & Africa. \n\nDirected/Oversaw the product supply chain, and advised clients on industrial automation and cybersecurity\n\nManaged & executed 3PL services for global clients\n\nResponsible for converting logistics warehouse to FDA approved manufacturing facility while maintaining positive cash flow",
+            "url": "https://www.linkedin.com/company/gizmo-sanitizer/",
+            "location": "United States"
+        },
+        {
+            "name": "1776 Consulting",
+            "position": "Chief Executive Officer",
+            "startDate": "2018-01-31",
+            "endDate": "2020-03-31",
+            "highlights": [],
+            "summary": "Started this company to provide marketing services to political campaigns, but soon transitioned to providing a full-service merchandise fulfillment solution. We built the client’s website, designed the merchandise (yard signs, bumper stickers, etc…), manufactured (or had manufactured) the products, fulfilled online orders, and provided customer support services. We were a turn-key solution for a common problem in the election space. \n\nKEY ACHIEVEMENTS:\n\nStarted this private consulting firm, servicing public figure clients, and private businesses across the globe \n\nAdvised clients on every aspect of digital marketing, incl. branding, custom Shopify Stores (Shopify Partner), and marketing automation\n\nBuilt logistics company & infrastructure to provide 3PL services to high-pro[ile political clients \n\nWithin one year of starting the company, we drove over $1.8m in gross revenue with 11.5% net margins\n\nSelected as a FedEx partner and given the opportunity to tour the FedEx WorldHub",
+            "url": "https://www.linkedin.com/company/1776consulting/",
+            "location": "United States"
+        },
+        {
+            "name": "In Pursuit Of",
+            "position": "Digital Strategist",
+            "startDate": "2017-08-31",
+            "endDate": "2018-02-28",
+            "highlights": [],
+            "summary": "Responsible for developing and maintaining an on-message and cohesive digital strategy for Concerned Veterans for America. This includes developing short and long-term digital plans, associated execution of said plans, as well as consistently looking for opportunities to grow the CVA brand.\n\nKEY ACHIEVEMENTS:\n\nOversaw all digital outreach – to a diverse set of audiences - including authoring and managing all advertising on behalf of veterans affairs organizations. (501c3 &501c4)",
+            "url": "https://www.linkedin.com/company/in-pursuit-of/",
+            "location": "Arlington, VA"
+        },
+        {
+            "name": "Campaign Solutions",
+            "position": "Account Manager and Social Media Director",
+            "startDate": "2015-10-31",
+            "endDate": "2017-08-31",
+            "highlights": [],
+            "summary": "I directed a team in the execution of a digital marketing strategy to facilitate business development, and perform data analysis of both organic and paid social media campaigns as well as fundraising emails.\n\nKEY ACHIEVEMENTS:\n\nPlayed pivotal role in digital campaigns that earned Campaign Solutions numerous awards, including The Reed Award and multiple Pollies, including – Best Use of New Technology. Best Fundraising Campaign, Best Use of Search Engine Marketing, & Best Use of a Landing Page for Digital Fundraising.\n\nSpearheaded robust fundraising campaign for a client at Campaign Solutions, raising over $46 million dollars.\n\nWork has been featured on high-profile outlets such as the Colbert Report, CNN, MSNBC, FOX, and Buzzfeed\n\n• Created and implemented publicity strategies for several high-profile political organizations and politicians.\n\n• Took over $2 M in digital advertising from concept to completion.\n\nOversaw development & execution of client social media strategy, supporting its overall marketing objectives\nProduced robust digital experiences for client audiences in an array of existing/emerging platforms/channels\nCreated & published targeted user content to client social media outlets, as well as client-specific mobile apps \nOrganized and led highly targeted social media campaigns, including both organic and paid search marketing\nEnsured cohesive client brand identity & compelling digital footprint across distribution channel ecosystem\nPartnered internally & externally in shaping content creation & distribution, & critical customer engagement\nManaged large and diversely skilled team, guiding their workflow & performance in facilitating client projects \nSupported the securing and growth of organic and new business opportunities within the social media space\nEvolved processes and models to provide success metrics and engagement plans that measure content impact",
+            "url": "https://www.linkedin.com/company/campaignsolutions/",
+            "location": "Alexandria, VA"
+        },
+        {
+            "name": "Phillip Terrell for DA",
+            "position": "Campaign Manager",
+            "startDate": "2014-05-31",
+            "endDate": "2014-12-31",
+            "highlights": [],
+            "summary": "I oversaw the entire campaign including media relations, polling, and creating marketing strategies for Pandora, Google YouTube, Facebook, TV, and radio. \n\nKEY ACHIEVEMENTS:\n• Raised over $500K for a local election\n\n• Brought a candidate from polling at 14% (against two other candidates) to winning the primary and runoff by implementing strategic micro-targeting techniques and building a voter database.",
+            "url": "",
+            "location": "Alexandria, LA"
+        },
+        {
+            "name": "US Navy",
+            "position": "Sailor",
+            "startDate": "2013-12-31",
+            "endDate": "2014-05-31",
+            "highlights": [],
+            "summary": "Completed Basic Training and BESS. Honorable Discharge in May 2014.",
+            "url": "https://www.linkedin.com/company/us-navy/",
+            "location": "Great Lakes, IL & Groton, CT"
+        },
+        {
+            "name": "Pearson Medical Technologies, LLC",
+            "position": "Digital Director",
+            "startDate": "2012-11-30",
+            "endDate": "2013-12-31",
+            "highlights": [],
+            "summary": "I integrated digital management tools into a startup medical technology company that utilizes groundbreaking technology to reduce drug misadministration by packaging medications into dosage containers for healthcare facilities. I also provided support and guidance for strategic long- and short-term development.",
+            "url": "https://www.linkedin.com/company/pearson-medical-technologies/",
+            "location": "Alexandria, Louisiana, United States"
+        },
+        {
+            "name": "Romney for President",
+            "position": "Digital Content Manager & Intern Coordinator",
+            "startDate": "2012-01-31",
+            "endDate": "2012-12-31",
+            "highlights": [],
+            "summary": "I managed multiple projects concurrently in a high-stress, fast-paced environment, including curating content for official campaign website, Facebook, Twitter, YouTube, and Tumblr and coordinating campaign contests to increase online engagement and visibility.\n\nKEY ACHIEVEMENTS\n• One of the youngest staff members in the organization.\n• Began as an Intern and was promoted within 5 months to permanent staffer.\n• Served as Intern Coordinator for the digital department, managing 42 interns.",
+            "url": "https://www.linkedin.com/company/romney2012/",
+            "location": "Boston, Massachusetts, United States"
+        },
+        {
+            "name": "Wagner for Sheriff",
+            "position": "Deputy Campaign Manager",
+            "startDate": "2011-10-31",
+            "endDate": "2011-12-31",
+            "highlights": [],
+            "summary": "Rebuilt campaign organization, conducted and leaked opposition research, interacted with local media outlets, built entire ground game, and managed polling.",
+            "url": ""
+        },
+        {
+            "name": "Jindal for Governor",
+            "position": "Field Staff",
+            "startDate": "2011-05-31",
+            "endDate": "2011-10-31",
+            "highlights": [],
+            "summary": "Contacted voters to inform them about the upcoming election",
+            "url": "",
+            "location": "Alexandria, Louisiana"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Boy Scouts of America",
+            "position": "Assistant Scout Master",
+            "startDate": "2010-03-31",
+            "endDate": "",
+            "summary": "I assisted the scoutmaster in running Troop 626.I teach scouts what it takes to become an Eagle Scout.",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/8118"
+        }
+    ],
+    "education": [],
+    "awards": [
+        {
+            "title": "Reed Award",
+            "date": "2016-02-28",
+            "awarder": "Campaigns & Elections",
+            "summary": "I was a part of the small team that created the best email fundraising creative in 2016. Only one Reed award is given out per category. \n\nBest Fundraising Email Creative/Copy for Independent Expenditure Campaign  - Great America PAC Email Fundraising Campaign    \n\nhttps://www.campaignsandelections.com/campaign-insider/2017-reed-award-winners"
+        },
+        {
+            "title": "Eagle Scout",
+            "date": "2010-03-31",
+            "awarder": "Boy Scouts of America",
+            "summary": "I was awarded the highest rank in Boy Scouts. "
+        }
+    ],
+    "certificates": [
+        {
+            "name": "WAIO.1x: Introduction to Web Accessibility",
+            "issuer": "W3Cx",
+            "startDate": "2022-12-31",
+            "url": "https://courses.edx.org/certificates/1b1bf6f74dfa4b6bb4a097e1d29551b8"
+        }
+    ],
+    "publications": [
+        {
+            "name": "INCORPORATING CAMPAIGN MERCHANDISE INTO YOUR 2019 FUNDRAISING PLAN",
+            "publisher": "Campaigns & Elections",
+            "releaseDate": "2019-03-01",
+            "summary": "For many groups and campaigns, fundraising is slow this early in the year. It's not necessarily a reason for concern, it's a fact of life in the early days of a new election cycle. But for those struggling to raise money, consider another way to generate donations and keep your supporters actively giving: ecommerce merchandising. ",
+            "url": "https://www.campaignsandelections.com/campaign-insider/incorporating-campaign-merchandise-into-your-2019-fundraising-plan"
+        },
+        {
+            "name": "THE TOP 5 REASONS TO SELL CAMPAIGN MERCHANDISE",
+            "publisher": "Campaigns & Elections",
+            "releaseDate": "2018-04-09",
+            "summary": "With the increase in burn rate, so comes the increase in donation asks. In 2018, as the number of competitive campaigns has continued to grow, it’s made the competition for donations more intense. Campaign merchandise remains a great way to differentiate a candidate by adding to his or her brand while generating revenue.",
+            "url": "https://www.campaignsandelections.com/campaign-insider/the-top-5-reasons-to-sell-campaign-merchandise"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Strategic Planning",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Engineering",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Artificial Intelligence (AI)",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Large Language Models (LLM)",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Agile Methodologies",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Event Planning",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Strategic Communications",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Stakeholder Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Technical Product Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Cloud Computing",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Speech Writing",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Logistics Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Nonprofits",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Analytics",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Supply Chain Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Fundraising",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Grassroots",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Leadership",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Government",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Process Improvement",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Federal Government",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Project Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Agile Project Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Data Analysis",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Digital Marketing",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Public Affairs",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Online Advertising",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Team Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Operations Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Legislative Relations",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Product Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Web Accessibility Testing",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Public Policy",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Web Accessibility",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Kubernetes",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Policy Analysis",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Politics",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Amazon Web Services (AWS)",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Product Development",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Political Science",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "OSCAL",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Political Campaigns",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Social Media",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Cybersecurity",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "DevOps",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Back-End Web Development",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Business Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Marketing Communications",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Logistics",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "A11y",
+            "level": "",
+            "keywords": []
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native Speaker"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+        {
+            "name": "Business Pivot",
+            "startDate": "",
+            "summary": "Shortly after opening a new logistics warehouse in February of 2020, most of our customers had to shut down due to covid. I spearheaded transitioning my company from a logistics consulting/management agency to a pharmaceutical manufacturing company (hand sanitizers). I was able to utilize much of our existing resources to quickly and efficiently transition to a more in-demand business line.",
+            "url": null
+        },
+        {
+            "name": "Streamline Product KPI Reporting",
+            "startDate": "",
+            "summary": "User churn was steadily increasing, and the account team was unsure how to solve the issue. My department designed, deployed, and maintained a robust Domo analytics instance to visualize user action and initiative results in near-real-time. In the three months following deployment, business efficiency increased by 150%.",
+            "url": null
+        },
+        {
+            "name": "Subscription Management Tool,",
+            "startDate": "",
+            "summary": "After thoroughly analyzing user activity and conducting user interviews, I played a central role in designing, developing, and deploying an email subscription opt-out/down consumer-facing product. The product met strict data security and election firewall policies while maintaining an enjoyable user experience. User churn rate dropped by 80% upon implementation and postmaster spam complaints decreased by over 70%.",
+            "url": null
+        }
+    ],
+    "meta": {
+        "version": "v1.0.0",
+        "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+}
