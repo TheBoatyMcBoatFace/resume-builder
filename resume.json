@@ -29,6 +29,10 @@
             "url": "https://github.com/theboatymcboatface",
             "username": "theboatymcboatface",
             "network": "github"
+        },
+        {
+            "url": "https://bentleyhensel.com",
+            "network": "website"
         }
     ]
   },
