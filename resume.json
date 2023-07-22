@@ -1,12 +1,14 @@
 {
+  "meta": {
+      "theme": "kendall"
+  },
   "basics": {
     "name": "Bentley Hensel",
-    "label": "Strategic Tech Leader | Pioneering Innovative & Ethical Tech Solutions",
+    "label": "PRODUCT LEADER & TECH INNOVATOR",
     "image": "https://avatars.githubusercontent.com/u/29107683?v=4",
     "summary": "With a robust technical background, I'm no stranger to rolling up my sleeves and diving deep into the tech side of things. I've built systems from the ground up and can talk shop with the best of engineers. My ability to not only comprehend complex tech lingo but also translate it for non-technical staff has made me an effective liaison in the tech world. My expertise in user-centric approaches and business strategy alignment position me well to effectively navigate the digital transformation landscape ",
-    "url": "https://bentleyhensel.com",
-    "email": "bentleyhensel@gmail.com",
     "website": "https://bentleyhensel.com",
+    "email": "bentleyhensel@gmail.com",
     "location": {
       "address": "600 S. Walter Reed Drive",
       "postalCode": "VA 22204",
@@ -28,12 +30,12 @@
         {
             "url": "https://github.com/theboatymcboatface",
             "username": "theboatymcboatface",
-            "network": "github"
+            "network": "Github"
         },
         {
             "url": "https://bentleyhensel.com",
-            "network": "website",
-            "username": "BentleyHensel.com"
+            "username": "BentleyHensel.com",
+            "network": "Website"
         }
     ]
   },
@@ -104,6 +106,7 @@
           "endDate": "2014-12-31",
           "highlights": [],
           "summary": "I oversaw the entire campaign including media relations, polling, and creating marketing strategies for Pandora, Google YouTube, Facebook, TV, and radio. \n\nKEY ACHIEVEMENTS:\n• Raised over $500K for a local election\n\n• Brought a candidate from polling at 14% (against two other candidates) to winning the primary and runoff by implementing strategic micro-targeting techniques and building a voter database.",
+          "url": "",
           "location": "Alexandria, LA"
       },
       {
@@ -142,7 +145,8 @@
           "startDate": "2011-10-31",
           "endDate": "2011-12-31",
           "highlights": [],
-          "summary": "Rebuilt campaign organization, conducted and leaked opposition research, interacted with local media outlets, built entire ground game, and managed polling."
+          "summary": "Rebuilt campaign organization, conducted and leaked opposition research, interacted with local media outlets, built entire ground game, and managed polling.",
+          "url": ""
       },
       {
           "name": "Jindal for Governor",
@@ -151,6 +155,7 @@
           "endDate": "2011-10-31",
           "highlights": [],
           "summary": "Contacted voters to inform them about the upcoming election",
+          "url": "",
           "location": "Alexandria, Louisiana"
       }
   ],
@@ -569,7 +574,6 @@
   "meta": {
       "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
       "version": "v1.0.0",
-      "lastModified": "2023-07-21T15:53:00",
-      "theme": "kendall"
+      "lastModified": "2023-07-21T15:53:00"
   }
 }
