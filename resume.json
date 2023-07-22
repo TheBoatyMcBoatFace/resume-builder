@@ -32,7 +32,8 @@
         },
         {
             "url": "https://bentleyhensel.com",
-            "network": "website"
+            "network": "website",
+            "username": "BentleyHensel.com"
         }
     ]
   },
