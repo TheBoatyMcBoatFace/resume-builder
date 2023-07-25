@@ -3,13 +3,13 @@
     "name": "Bentley Hensel",
     "label": "PRODUCT LEADER & TECH INNOVATOR",
     "image": "https://avatars.githubusercontent.com/u/29107683?v=4",
-    "summary": "With a robust technical background, I'm no stranger to rolling up my sleeves and diving deep into the tech side of things. I've built systems from the ground up and can talk shop with the best of engineers. My ability to not only comprehend complex tech lingo but also translate it for non-technical staff has made me an effective liaison in the tech world. My expertise in user-centric approaches and business strategy alignment position me well to effectively navigate the digital transformation landscape ",
-    "url": "https://bentleyhensel.com",
-    "email": "bentleyhensel@gmail.com",
+    "summary": "Strategic expert in product and technology, demonstrating technical acuity, technology integration, and data-driven decision-making. Skilled in developing advanced tools, guiding product strategies, scaling startups, and leading diverse teams. Excels at leveraging cutting-edge technology to boost operational efficiency, contributing to significant organizational growth and transformative change. Balances a unique blend of technical prowess with product vision.",
     "website": "https://bentleyhensel.com",
+    "email": "bentleyhensel@gmail.com",
     "location": {
       "address": "600 S. Walter Reed Drive",
-      "postalCode": "VA 22204",
+      "postalCode": "22204",
+      "phone": "318-729-3334",
       "city": "Arlington",
       "countryCode": "US",
       "region": "Virginia"
@@ -28,44 +28,58 @@
         {
             "url": "https://github.com/theboatymcboatface",
             "username": "theboatymcboatface",
-            "network": "github"
+            "network": "Github"
         },
         {
             "url": "https://bentleyhensel.com",
-            "network": "website",
-            "username": "BentleyHensel.com"
+            "username": "BentleyHensel.com",
+            "network": "Website"
         }
     ]
   },
   "work": [
       {
-          "name": "CivicActions",
-          "position": "Senior Technical Product Manager",
-          "startDate": "2022-11-30",
-          "highlights": [],
-          "summary": "In my capacity as Senior Technical Product Manager at CivicActions, I've taken great joy in being part of the innovation that is transforming the digital accessibility space within the government sector. I've had the honor of leading the development of GovA11y, a novel open-source scanning tool that is drastically redefining accessibility testing for .gov and .mil domains, executing billions of tests at an unprecedented pace.\n\nI'm also proud to have helmed the CivicGPT initiative, a project that brings the power of Artificial Intelligence to an internally searchable knowledge base. This project isn't just about enhancing organizational efficiency, it's also about ensuring stringent data security. In line with this, I've designed a self-hosted Large Language Models system that enhances trust in AI-generated content.\n\nIn my role, I've also had the chance to coordinate the development of RapidATO, an open-source solution that transforms ATO documents into more user-friendly formats. This has been pivotal in making continuous, automated-testing ATO/SSPs and security compliance not just possible, but attainable.\n\nFurthermore, I've taken the reins of the VA.gov Platform CMS DevOps team, introducing git-ops-based Kubernetes application management and significantly reducing the backlog.\n\nThroughout my journey, fostering a culture of collaboration and innovation has been a key focus. I'm committed to using Agile principles to spark transformative change in the digital government landscape. The future is exciting, and I look forward to continuing to contribute to these transformations.",
-          "url": "https://www.linkedin.com/company/civicactions/",
-          "location": "United States"
+        "name": "CivicActions",
+        "location": "Remote",
+        "description": "GovTech",
+        "position": "Senior Technical Product Manager",
+        "url": "https://www.linkedin.com/company/civicactions/",
+        "startDate": "2022-11",
+        "summary": "Steered innovative product development, advancing digital accessibility in the public sector. Orchestrated the integration of artificial intelligence and developed numerous impactful open-source tools. Advocated for agile methodologies, nurtured a culture of sustained innovation, and contributed significantly to enhancing tech-enabled government service delivery.",
+        "highlights": [
+          "Leveraged innovative data schemas and built creative pipelines for GovA11y to transform billions of time-series accessibility scan data rows into accessible, meaningful, actionable insights",
+          "While leading a VA.gov DevOps team, reduced the backlog by over 70% over the course of two sprints",
+          "Initiated the transition of VA.gov to a Git-ops-based Kubernetes application management system, streamlining deployment, bolstering system resilience, and dramatically enhancing the developer experience",
+          "Led GovA11y from conception to scale, eventually conducting over 7 billion A11y tests within 18 hours",
+          "Spearheaded the development of RapidATO, laying the roadmap for continuously tested SSPs and achievable ATOs",
+          "Brought to life multiple in-house AI initiatives to scope government AI challenges and use cases"
+        ]
       },
       {
-          "name": "Blitz Digital Group",
-          "position": "Director of Digital Operations",
-          "startDate": "2021-06-30",
-          "endDate": "2022-03-31",
-          "highlights": [],
-          "summary": "Responsible for building and managing operations department in growing digital marketing agency. Using Agile Principles, I oversaw an email marketing division, a data monetization company (Potomac Reach), an advertising & social division, and a technology (development) division. As part of my role, I acted as product manager for numerous internal, client, & customer-facing products.\n\nKEY ACHIEVEMENTS:\n\nManaged, designed, & deployed a data-sync product that enabled non-technical users to connect sensitive data to clients & numerous approved tools via a user-tested UI.\n\nCreated & managed internal security & authorization product utilizing custom tools, Cloudflare ZeroTrust, & LastPass.\n\nManaged operations department in a growing digital marketing agency; oversaw email marketing division, a data monetization company, advertising & social division, and technology (development) division using Agile Principles.\n\nOrganized & managed the organization of product data universes totaling over 75 million unique users, leading to dramatic improvements in client data performance and ROI.\n\nOversaw rebuilding of email deployment pipelines to follow Agile best practices by using tools such as Airtable, custom Slack apps, & internal products which resulted in a 12x increase in email inboxing\n\nBuilt and fostered an environment that encouraged inter-team cooperation and development\n\nConverted key stakeholder directives into multi-departmental executions",
-          "url": "https://www.linkedin.com/company/blitzdigitalgroup/",
-          "location": "Ashburn, Virginia, United States"
+        "name": "Blitz Digital Group & Potomac Reach Media",
+        "position": "Director of Digital Operations",
+        "startDate": "2021-06",
+        "endDate": "2022-03",
+        "summary": "Utilized strategic leadership to overhaul operations and usher in innovative product development within a rapidly expanding digital marketing agency. Led the integration of cutting-edge technology into daily operations and product offerings, creating impactful solutions for internal and client-facing needs. Advocated for Agile methodologies, fostered a culture of continuous innovation, and contributed significantly to enhancing a data-driven, tech-oriented business approach.",
+        "highlights": [
+          "Increased email deliverability by 12x while increasing email deployments from 4 million to 45+ million messages a month",
+          "Ushered in a company-wide advanced analytics solution; this streamlined numerous ETL pipelines, provided real-time critical metrics to stakeholders, and skyrocketed the operational efficiency by 150% within three months",
+          "Developed an extensive data ecosystem, drawing from behavioral patterns of over 75 million unique users to drive substantial improvements in client data performance and decision-making processes",
+          "Conceptualized and maintained a rigorous internal security product in close collaboration with federal agencies, ensuring top-tier protection for politically sensitive information and fortifying campaign security protocols"
+        ]
       },
       {
-          "name": "Gizmo Sanitizer",
-          "position": "President",
-          "startDate": "2019-11-30",
-          "endDate": "2021-03-31",
-          "highlights": [],
-          "summary": "Led a rapidly growing and agile logistics company to substantial growth with domestic & international clients. A new warehouse was built in January of 2020, right before COVID shut down the majority of our suppliers. I transitioned the organization and staff from a 3PL focus to pharmaceutical manufacturing due to a near-shutdown of our logistics clients. \n\t\t\nKEY ACHIEVEMENTS:\n\t\t\t\t\nBuilt and managed multi-location business serving clients across North America, Asia, & Africa. \n\nDirected/Oversaw the product supply chain, and advised clients on industrial automation and cybersecurity\n\nManaged & executed 3PL services for global clients\n\nResponsible for converting logistics warehouse to FDA approved manufacturing facility while maintaining positive cash flow",
-          "url": "https://www.linkedin.com/company/gizmo-sanitizer/",
-          "location": "United States"
+        "name": "Gizmo Shipping",
+        "position": "President",
+        "location": "Waynesboro, VA",
+        "startDate": "2019-12",
+        "endDate": "2021-03",
+        "summary": "Navigated a complex logistics landscape to drive significant growth in both scalability and revenue. Demonstrated mastery over supply chain management by successfully catering to diverse clients across North America, Asia, and Africa, delivering over a million orders. Orchestrated a transformative overhaul of the organization from a logistics model to an FDA-approved pharmaceutical manufacturing facility while maintaining steady cash flow, ensuring business continuity.",
+        "highlights": [
+          "Helmed and managed extensive, multi-location product supply chains, successfully shipping millions of orders for multiple clients spanning both national and international markets.",
+          "Led the full product lifecycle from inception to market launch for a diverse range of client-specific products. Highlight projects include a hospital-grade hand sanitizer, a high-traffic IoT-enabled dispenser, and a specialized disinfectant for classroom nylon carpets.",
+          "Delivered significant growth for a bustling logistics & manufacturing startup, driving $2.7m in revenue while generating 30 full-time jobs within an accelerated 18-month timeframe."
+        ]
       },
       {
           "name": "1776 Consulting",
@@ -104,6 +118,7 @@
           "endDate": "2014-12-31",
           "highlights": [],
           "summary": "I oversaw the entire campaign including media relations, polling, and creating marketing strategies for Pandora, Google YouTube, Facebook, TV, and radio. \n\nKEY ACHIEVEMENTS:\n• Raised over $500K for a local election\n\n• Brought a candidate from polling at 14% (against two other candidates) to winning the primary and runoff by implementing strategic micro-targeting techniques and building a voter database.",
+          "url": "",
           "location": "Alexandria, LA"
       },
       {
@@ -142,7 +157,8 @@
           "startDate": "2011-10-31",
           "endDate": "2011-12-31",
           "highlights": [],
-          "summary": "Rebuilt campaign organization, conducted and leaked opposition research, interacted with local media outlets, built entire ground game, and managed polling."
+          "summary": "Rebuilt campaign organization, conducted and leaked opposition research, interacted with local media outlets, built entire ground game, and managed polling.",
+          "url": ""
       },
       {
           "name": "Jindal for Governor",
@@ -151,6 +167,7 @@
           "endDate": "2011-10-31",
           "highlights": [],
           "summary": "Contacted voters to inform them about the upcoming election",
+          "url": "",
           "location": "Alexandria, Louisiana"
       }
   ],
