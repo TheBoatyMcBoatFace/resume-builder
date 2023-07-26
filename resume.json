@@ -15,82 +15,87 @@
       "region": "Virginia"
     },
     "profiles": [
-        {
-            "network": "LinkedIn",
-            "username": "bfhensel",
-            "url": "https://www.linkedin.com/in/bfhensel/"
-        },
-        {
-            "network": "Twitter",
-            "username": "BFHensel",
-            "url": "https://twitter.com/BFHensel"
-        },
-        {
-            "url": "https://github.com/theboatymcboatface",
-            "username": "theboatymcboatface",
-            "network": "Github"
-        },
-        {
-            "url": "https://bentleyhensel.com",
-            "username": "BentleyHensel.com",
-            "network": "Website"
-        }
+      {
+          "url": "https://bentleyhensel.com",
+          "username": "BentleyHensel.com",
+          "network": "Website"
+      },
+      {
+          "url": "https://github.com/theboatymcboatface",
+          "username": "theboatymcboatface",
+          "network": "Github"
+      },
+      {
+          "network": "LinkedIn",
+          "username": "bfhensel",
+          "url": "https://www.linkedin.com/in/bfhensel/"
+      },
+      {
+          "network": "Twitter",
+          "username": "BFHensel",
+          "url": "https://twitter.com/BFHensel"
+      }
     ]
   },
   "work": [
-      {
-        "name": "CivicActions",
-        "location": "Remote",
-        "description": "GovTech",
-        "position": "Senior Technical Product Manager",
-        "url": "https://www.linkedin.com/company/civicactions/",
-        "startDate": "2022-11",
-        "summary": "Steered innovative product development, advancing digital accessibility in the public sector. Orchestrated the integration of artificial intelligence and developed numerous impactful open-source tools. Advocated for agile methodologies, nurtured a culture of sustained innovation, and contributed significantly to enhancing tech-enabled government service delivery.",
-        "highlights": [
-          "Leveraged innovative data schemas and built creative pipelines for GovA11y to transform billions of time-series accessibility scan data rows into accessible, meaningful, actionable insights",
-          "While leading a VA.gov DevOps team, reduced the backlog by over 70% over the course of two sprints",
-          "Initiated the transition of VA.gov to a Git-ops-based Kubernetes application management system, streamlining deployment, bolstering system resilience, and dramatically enhancing the developer experience",
-          "Led GovA11y from conception to scale, eventually conducting over 7 billion A11y tests within 18 hours",
-          "Spearheaded the development of RapidATO, laying the roadmap for continuously tested SSPs and achievable ATOs",
-          "Brought to life multiple in-house AI initiatives to scope government AI challenges and use cases"
-        ]
-      },
-      {
-        "name": "Blitz Digital Group & Potomac Reach Media",
-        "position": "Director of Digital Operations",
-        "startDate": "2021-06",
-        "endDate": "2022-03",
-        "summary": "Utilized strategic leadership to overhaul operations and usher in innovative product development within a rapidly expanding digital marketing agency. Led the integration of cutting-edge technology into daily operations and product offerings, creating impactful solutions for internal and client-facing needs. Advocated for Agile methodologies, fostered a culture of continuous innovation, and contributed significantly to enhancing a data-driven, tech-oriented business approach.",
-        "highlights": [
-          "Increased email deliverability by 12x while increasing email deployments from 4 million to 45+ million messages a month",
-          "Ushered in a company-wide advanced analytics solution; this streamlined numerous ETL pipelines, provided real-time critical metrics to stakeholders, and skyrocketed the operational efficiency by 150% within three months",
-          "Developed an extensive data ecosystem, drawing from behavioral patterns of over 75 million unique users to drive substantial improvements in client data performance and decision-making processes",
-          "Conceptualized and maintained a rigorous internal security product in close collaboration with federal agencies, ensuring top-tier protection for politically sensitive information and fortifying campaign security protocols"
-        ]
-      },
-      {
-        "name": "Gizmo Shipping",
-        "position": "President",
-        "location": "Waynesboro, VA",
-        "startDate": "2019-12",
-        "endDate": "2021-03",
-        "summary": "Navigated a complex logistics landscape to drive significant growth in both scalability and revenue. Demonstrated mastery over supply chain management by successfully catering to diverse clients across North America, Asia, and Africa, delivering over a million orders. Orchestrated a transformative overhaul of the organization from a logistics model to an FDA-approved pharmaceutical manufacturing facility while maintaining steady cash flow, ensuring business continuity.",
-        "highlights": [
-          "Helmed and managed extensive, multi-location product supply chains, successfully shipping millions of orders for multiple clients spanning both national and international markets.",
-          "Led the full product lifecycle from inception to market launch for a diverse range of client-specific products. Highlight projects include a hospital-grade hand sanitizer, a high-traffic IoT-enabled dispenser, and a specialized disinfectant for classroom nylon carpets.",
-          "Delivered significant growth for a bustling logistics & manufacturing startup, driving $2.7m in revenue while generating 30 full-time jobs within an accelerated 18-month timeframe."
-        ]
-      },
-      {
-          "name": "1776 Consulting",
-          "position": "Chief Executive Officer",
-          "startDate": "2018-01-31",
-          "endDate": "2020-03-31",
-          "url": "https://www.linkedin.com/company/1776consulting/",
-          "highlights": [],
-          "summary": "Started this company to provide marketing services to political campaigns, but soon transitioned to providing a full-service merchandise fulfillment solution. We built the client’s website, designed the merchandise (yard signs, bumper stickers, etc…), manufactured (or had manufactured) the products, fulfilled online orders, and provided customer support services. We were a turn-key solution for a common problem in the election space. \n\nKEY ACHIEVEMENTS:\n\nStarted this private consulting firm, servicing public figure clients, and private businesses across the globe \n\nAdvised clients on every aspect of digital marketing, incl. branding, custom Shopify Stores (Shopify Partner), and marketing automation\n\nBuilt logistics company & infrastructure to provide 3PL services to high-pro[ile political clients \n\nWithin one year of starting the company, we drove over $1.8m in gross revenue with 11.5% net margins\n\nSelected as a FedEx partner and given the opportunity to tour the FedEx WorldHub",
-          "location": "United States"
-      },
+  {
+    "name": "CivicActions",
+    "position": "Senior Technical Product Manager",
+    "startDate": "2022-11",
+    "endDate": "",
+    "summary": "Steered innovative product development, advancing digital accessibility in the public sector. Orchestrated the integration of artificial intelligence and developed numerous impactful open-source tools. Advocated for agile methodologies, nurtured a culture of sustained innovation, and contributed significantly to enhancing tech-enabled government service delivery.",
+    "highlights": [
+      "Leveraged innovative data schemas and built creative pipelines for GovA11y to transform billions of time-series accessibility scan data rows into accessible, meaningful, actionable insights",
+      "While leading a VA.gov DevOps team, reduced the backlog by over 70% over the course of two sprints",
+      "Initiated the transition of VA.gov to a Git-ops-based Kubernetes application management system, streamlining deployment, bolstering system resilience, and dramatically enhancing the developer experience",
+      "Led GovA11y from conception to scale, eventually conducting over 7 billion A11y tests within 18 hours",
+      "Spearheaded the development of RapidATO, laying the roadmap for continuously tested SSPs and achievable ATOs",
+      "Brought to life multiple in-house AI initiatives to scope government AI challenges and use cases"
+    ]
+  },
+  {
+    "name": "Blitz Digital Group & Potomac Reach Media",
+    "position": "Director of Digital Operations",
+    "startDate": "2021-06",
+    "endDate": "2022-03",
+    "summary": "Utilized strategic leadership to overhaul operations and usher in innovative product development within a rapidly expanding digital marketing agency. Led the integration of cutting-edge technology into daily operations and product offerings, creating impactful solutions for internal and client-facing needs. Advocated for Agile methodologies, fostered a culture of continuous innovation, and contributed significantly to enhancing a data-driven, tech-oriented business approach.",
+    "highlights": [
+      "Increased email deliverability by 12x while increasing email deployments from 4 million to 45+ million messages a month",
+      "Ushered in a company-wide advanced analytics solution; streamlining numerous ETL pipelines, providing real-time insights to stakeholders, and skyrocketing operational efficiency by 150% within three months",
+      "Developed an extensive data ecosystem, drawing from behavioral patterns of over 75 million unique users to drive substantial improvements in client data performance and decision-making processes",
+      "Conceptualized and maintained a rigorous internal security product in close collaboration with federal agencies, ensuring top-tier protection for politically sensitive information and fortifying campaign security protocols"
+    ]
+  },
+  {
+    "name": "Gizmo Shipping",
+    "position": "President",
+    "startDate": "2019-12",
+    "endDate": "2021-03",
+    "summary": "Navigated a complex logistics landscape to drive significant growth in both scalability and revenue. Demonstrated mastery over supply chain management by successfully catering to diverse clients across North America, Asia, and Africa, delivering over a million orders. Orchestrated a transformative overhaul of the organization from a logistics model to an FDA-approved pharmaceutical manufacturing facility while maintaining steady cash flow, ensuring business continuity.",
+    "highlights": [
+      "Helmed and managed extensive, multi-location product supply chains, successfully shipping millions of orders for multiple clients spanning both national and international markets.",
+      "Led the full product lifecycle from inception to market launch for a diverse range of client-specific products. Highlight projects include a hospital-grade hand sanitizer, a high-traffic IoT-enabled dispenser, and a specialized disinfectant for classroom nylon carpets.",
+      "Delivered significant growth for a bustling logistics & manufacturing startup, driving $2.7m in revenue while generating 30 full-time jobs within an accelerated 18-month timeframe."
+    ]
+  },
+  {
+    "name": "1776 Consulting",
+    "position": "CEO",
+    "startDate": "2017-10",
+    "endDate": "2019-12",
+    "summary": "Founded and led a specialized consulting firm delivering strategic marketing, logistics, and merchandise solutions to high-profile political and business clients. Deployed innovative hardware and digital tools to address complex operational challenges, significantly amplifying client satisfaction and profitability while promoting a substantial environmental impact.",
+    "highlights": [
+      "Drove the company to generate over $1.8m in first-year revenue with a substantial 11.5% margin",
+      "Manifested strong corporate social responsibility with the 'One Product | One Tree' initiative, resulting in over 75,000 trees planted.",
+      "Facilitated the establishment of 42 full-time roles, nurturing an environment of high employee satisfaction and ensuring full employment upon the company's sale",
+      "Orchestrated the design and launch of a customer-centric support solution, spiking client satisfaction by 70%",
+      "Pioneered the development of an IoT solution, increasing order pick speed by 65% and slashing error rates by over 85%",
+      "Oversaw cross-functional teams in areas as wide-ranging as digital marketing, warehouse operations, merchandise design & production, and industrial automation",
+      "Privileged with an exclusive tour of the expansive FedEx World Hub, gaining firsthand experience of their substantial logistics operation"
+    ],
+    "url": "https://www.linkedin.com/company/1776consulting/",
+    "location": "United States"
+  },
       {
           "name": "In Pursuit Of",
           "position": "Digital Strategist",
@@ -112,13 +117,13 @@
           "location": "Alexandria, VA"
       },
       {
-          "name": "Phillip Terrell for DA",
+          "name": "District Attorney Campaign",
           "position": "Campaign Manager",
           "startDate": "2014-05-31",
           "endDate": "2014-12-31",
           "highlights": [],
           "summary": "I oversaw the entire campaign including media relations, polling, and creating marketing strategies for Pandora, Google YouTube, Facebook, TV, and radio. \n\nKEY ACHIEVEMENTS:\n• Raised over $500K for a local election\n\n• Brought a candidate from polling at 14% (against two other candidates) to winning the primary and runoff by implementing strategic micro-targeting techniques and building a voter database.",
-          "location": "Alexandria, LA"
+          "location": "Louisiana"
       },
       {
           "name": "US Navy",
@@ -126,19 +131,19 @@
           "startDate": "2013-12-31",
           "endDate": "2014-05-31",
           "highlights": [],
-          "summary": "Completed Basic Training and BESS. Honorable Discharge in May 2014.",
+          "summary": "Completed Basic Training and BESS. Medical Discharge in May 2014.",
           "url": "https://www.linkedin.com/company/us-navy/",
           "location": "Great Lakes, IL & Groton, CT"
       },
       {
-          "name": "Pearson Medical Technologies, LLC",
+          "name": "Pearson Medical Technologies",
           "position": "Digital Director",
           "startDate": "2012-11-30",
           "endDate": "2013-12-31",
           "highlights": [],
           "summary": "I integrated digital management tools into a startup medical technology company that utilizes groundbreaking technology to reduce drug misadministration by packaging medications into dosage containers for healthcare facilities. I also provided support and guidance for strategic long- and short-term development.",
           "url": "https://www.linkedin.com/company/pearson-medical-technologies/",
-          "location": "Alexandria, Louisiana, United States"
+          "location": "Louisiana"
       },
       {
           "name": "Romney for President",
@@ -151,7 +156,7 @@
           "location": "Boston, Massachusetts, United States"
       },
       {
-          "name": "Wagner for Sheriff",
+          "name": "County Sheriff Campaign",
           "position": "Deputy Campaign Manager",
           "startDate": "2011-10-31",
           "endDate": "2011-12-31",
@@ -505,14 +510,34 @@
   ],
   "interests": [
       {
-          "name": "Wildlife",
-          "keywords": ["Ferrets", "Unicorns"]
+          "name": "Water",
+          "keywords": ["Sailing", "SCUBA Diving", "Marine Conservation"]
+      },
+      {
+        "name": "Nature & Outdoors",
+        "keywords": ["Backpacking", "Camping", "National Parks"]
+      },
+      {
+        "name": "Technology",
+        "keywords": ["Self Hosting", "Open Source"]
       }
   ],
   "references": [
       {
-          "name": "Erlich Bachman",
-          "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+          "name": "Sheriff Chuck Wagner",
+          "reference": "Bentley has an abilityto pinpointthe issues, find the evidence supporting these issues and carry through with the implementation of his ideas. Bentley is very trustworthy with good instincts. He is very passionate about his political views, and his views are grounded by his logic. his common sense and integrity."
+      },
+      {
+        "name": "Steven Cruz",
+        "reference": "I was his supervisor at IPO and he was a pleasure to work with, in all respects: bright, engaged, inquisitive, thoughtful, and highly analytical. I especially enjoyed how he pushed the rest of the team to become more intentional and targeted with their campaign deployment."
+      },
+      {
+        "name": "Cooper Anderson",
+        "reference": "Add Here"
+      },
+      {
+        "name": "Rebecca Heisler",
+        "reference": "...Bentley has a positive, interactive personality and was a pleasure to have around the office, which was a very fast paced environment."
       }
   ],
   "certificates": [
